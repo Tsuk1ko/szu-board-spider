@@ -1,0 +1,22 @@
+{
+  "name": "szu-board-spider",
+  "version": "1.0.0",
+  "description": "深圳大学公文通简易爬虫",
+  "main": "main.js",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "iconv-lite": "^0.4.23",
+    "request": "^2.87.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node main.js"
+  },
+  "keywords": [
+	  "szu",
+	  "board",
+	  "spider"
+  ],
+  "author": "Jindai Kirin",
+  "license": "GPL-3.0"
+}
